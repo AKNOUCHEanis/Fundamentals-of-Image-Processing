@@ -6,4 +6,5 @@ TME du module "Bases du traitement d'images"
 3. [Practical-work-3-2D-Sampling-and-aliasing](https://github.com/AKNOUCHEanis/Fundamentals-of-Image-Processing/blob/main/Practical-work-3-2D-sampling-and-aliasing/TME3.ipynb)
 4. [Practical-work-4-Frequency-filtering-and-color](https://github.com/AKNOUCHEanis/Fundamentals-of-Image-Processing/blob/main/Practical-work-4-Frequency-filtering-and-color/TME4.ipynb)
 5. [Practical-work-5-Edge-detection](https://github.com/AKNOUCHEanis/Fundamentals-of-Image-Processing/blob/main/Practical-work-5-edge-detection/TME5.ipynb)
-6. 
+6. [Practical-work-6-Harris-Corner-Detector](https://github.com/AKNOUCHEanis/Fundamentals-of-Image-Processing/blob/main/Practical-work-6-Harris-Corner-Detector/TME6.ipynb)
+7. 
