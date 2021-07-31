@@ -1,0 +1,1 @@
+La base d'images "Base" est vide.
