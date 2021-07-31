@@ -8,4 +8,5 @@ TME du module "Bases du traitement d'images"
 5. [Practical-work-5-Edge-detection](https://github.com/AKNOUCHEanis/Fundamentals-of-Image-Processing/blob/main/Practical-work-5-edge-detection/TME5.ipynb)
 6. [Practical-work-6-Harris-Corner-Detector](https://github.com/AKNOUCHEanis/Fundamentals-of-Image-Processing/blob/main/Practical-work-6-Harris-Corner-Detector/TME6.ipynb)
 7. [Practical-work-7-Color-quantification-and-search-by-content](https://github.com/AKNOUCHEanis/Fundamentals-of-Image-Processing/blob/main/Practical-work-7-Color-quantification-and-search-by-content/TME7.ipynb)
-8. 
+8. [Practical-work-8-Split-and-Merge](https://github.com/AKNOUCHEanis/Fundamentals-of-Image-Processing/blob/main/Practical-work-8-Split-and-Merge/TME8.ipynb)
+9. 
